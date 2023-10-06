@@ -37,7 +37,7 @@ public class No217 {
 
     /**
      *6ms/55.5mb
-     *直接用add方法的返回值好像更快
+     *直接利用add方法的返回值好像更快
      * */
     public boolean containsDuplicateProo(int[] nums) {
         Set<Integer> mSet = new HashSet<>();
