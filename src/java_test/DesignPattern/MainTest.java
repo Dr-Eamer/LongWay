@@ -14,21 +14,20 @@ import java_test.DesignPattern.StructuralPatterns.Facade.*;
 import java_test.DesignPattern.StructuralPatterns.Flyweight.*;
 import java_test.DesignPattern.StructuralPatterns.Proxy.*;
 
-import java_test.DesignPattern.BehavioralPattern.ResponsibilityChain.*;
-import java_test.DesignPattern.BehavioralPattern.Command.*;
-import java_test.DesignPattern.BehavioralPattern.Interpreter.*;
-import java_test.DesignPattern.BehavioralPattern.Iterator.*;
-import java_test.DesignPattern.BehavioralPattern.Mediator.User;
-import java_test.DesignPattern.BehavioralPattern.Memento.*;
-import java_test.DesignPattern.BehavioralPattern.Observer.*;
-import java_test.DesignPattern.BehavioralPattern.State.*;
-import java_test.DesignPattern.BehavioralPattern.NullObject.*;
-import java_test.DesignPattern.BehavioralPattern.Strategy.*;
-import java_test.DesignPattern.BehavioralPattern.Template.*;
-import java_test.DesignPattern.BehavioralPattern.Visitor.*;
+import java_test.DesignPattern.BehavioralPatterns.ResponsibilityChain.*;
+import java_test.DesignPattern.BehavioralPatterns.Command.*;
+import java_test.DesignPattern.BehavioralPatterns.Interpreter.*;
+import java_test.DesignPattern.BehavioralPatterns.Iterator.*;
+import java_test.DesignPattern.BehavioralPatterns.Mediator.User;
+import java_test.DesignPattern.BehavioralPatterns.Memento.*;
+import java_test.DesignPattern.BehavioralPatterns.Observer.*;
+import java_test.DesignPattern.BehavioralPatterns.State.*;
+import java_test.DesignPattern.BehavioralPatterns.NullObject.*;
+import java_test.DesignPattern.BehavioralPatterns.Strategy.*;
+import java_test.DesignPattern.BehavioralPatterns.Template.*;
+import java_test.DesignPattern.BehavioralPatterns.Visitor.*;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 
